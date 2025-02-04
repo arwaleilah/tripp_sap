@@ -1,0 +1,114 @@
+*****************************
+***********SYSTEM************
+*****************************
+Unity Version:2022.3.11f1
+OS:Windows 10  (10.0.19045) 64bit
+System Time: 1/30/2025 5:16:37 PM
+
+*****************************
+***********PROJECT***********
+*****************************
+Scripting Define Symbols: USE_INPUT_SYSTEM_POSE_CONTROL;C3D_VARJOXR;C3D_VARJOVR;C3D_NETCODE
+Packages:
+  com.cognitive3d.c3d-sdk 1.7.0
+  com.unity.collab-proxy 2.6.0
+  com.unity.feature.development 1.0.1
+  com.unity.textmeshpro 3.0.6
+  com.unity.timeline 1.7.5
+  com.unity.ugui 1.0.0
+  com.unity.visualscripting 1.9.1
+  com.unity.xr.openxr 1.8.2
+  com.varjo.xr 3.7.3
+  com.unity.modules.ai 1.0.0
+  com.unity.modules.androidjni 1.0.0
+  com.unity.modules.animation 1.0.0
+  com.unity.modules.assetbundle 1.0.0
+  com.unity.modules.audio 1.0.0
+  com.unity.modules.cloth 1.0.0
+  com.unity.modules.director 1.0.0
+  com.unity.modules.imageconversion 1.0.0
+  com.unity.modules.imgui 1.0.0
+  com.unity.modules.jsonserialize 1.0.0
+  com.unity.modules.particlesystem 1.0.0
+  com.unity.modules.physics 1.0.0
+  com.unity.modules.physics2d 1.0.0
+  com.unity.modules.screencapture 1.0.0
+  com.unity.modules.terrain 1.0.0
+  com.unity.modules.terrainphysics 1.0.0
+  com.unity.modules.tilemap 1.0.0
+  com.unity.modules.ui 1.0.0
+  com.unity.modules.uielements 1.0.0
+  com.unity.modules.umbra 1.0.0
+  com.unity.modules.unityanalytics 1.0.0
+  com.unity.modules.unitywebrequest 1.0.0
+  com.unity.modules.unitywebrequestassetbundle 1.0.0
+  com.unity.modules.unitywebrequestaudio 1.0.0
+  com.unity.modules.unitywebrequesttexture 1.0.0
+  com.unity.modules.unitywebrequestwww 1.0.0
+  com.unity.modules.vehicles 1.0.0
+  com.unity.modules.video 1.0.0
+  com.unity.modules.vr 1.0.0
+  com.unity.modules.wind 1.0.0
+  com.unity.modules.xr 1.0.0
+SDK Version: 1.7.0
+Api Key: ****FL6L
+Developer Key: ****ND79
+Enable Logging: True
+Enable Development Logging: False
+Gaze Type: Physics
+Snapshot Interval: 0.1
+Dynamic Object Search in Parent: True
+Dynamic Object Layer Mask: -1
+Track GPS Location: False
+GPS Accuracy: 2
+Record Floor Position: True
+Automatic Send Timer: 10
+Gaze Snapshot Batch Size: 256
+Event Snapshot Batch Size: 256
+Dynamic Snapshot Batch Size: 512
+Sensor Snapshot Batch Size: 512
+Fixation Snapshot Batch Size: 256
+Save Data to Local Cache if no internet connection: True
+Cache Size (bytes): 104857600
+Cache Size (mb): 100.0 MB
+Custom Protocol: https
+Custom Gateway: data.cognitive3d.com
+Custom Viewer: viewer.cognitive3d.com/scene/
+Custom Dashboard: app.cognitive3d.com
+Texture Export Quality: 2
+Export Lowest LOD from LODGroup Components: True
+Scene Settings:
+  └─SampleScene
+     ├─Scene Id: 
+     ├─Scene Path: Assets/Scenes/SampleScene.unity
+     ├─Last Revision: 
+     ├─Version Number: 0
+     └─Version Id: 0
+
+*****************************
+********CURRENT SCENE********
+*****************************
+Scene Name: SampleScene
+Scene Id: 
+Scene Path: Assets/Scenes/SampleScene.unity
+Last Revision: 
+Version Number: 0
+Version Id: 0
+Scene Size (mb): 0.01
+Main Camera GameObject: Main Camera
+Manager Initialize On Start: True
+Manager Startup Delay Time (s): 0
+
+*****************************
+****CURRENT SCENE OBJECTS****
+*****************************
+Dynamic Object Count: 0
+
+*****************************
+********EXPORT FOLDER********
+*****************************
+/Cognitive3D_SceneExplorerExport (0mb)
+   /SampleScene (0.01mb)
+      scene.bin (0.00mb)
+      scene.gltf (0.00mb)
+      settings.json (0.00mb)
