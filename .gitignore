@@ -1,0 +1,13 @@
+# Unity generated files to ignore
+Library/ 
+Logs/
+Temp/
+Build/
+Builds/
+.DS_Store
+.vscode/
+*.csproj
+*.sln
+*.user
+.vs/
+
